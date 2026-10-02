@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PeakMind.Pages.NewPage1"
+             Title="Sigma">
+    
+
+    <Grid RowDefinitions="3*,1*"  BackgroundColor="BurlyWood">
+        
+        <Image Grid.Row="0" 
+               Source="pip.png"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"/>
+        <HorizontalStackLayout Grid.Row="1" HorizontalOptions="Center">
+            <Button Text="Feed" Clicked="Button_Feed" />
+            <Button Text="Shower" Clicked="Button_Shower" />
+            <Button Text="Beat" Clicked="Button_Beat" />
+            
+        </HorizontalStackLayout>
+        <Grid x:Name="PopUpLayer1" BackgroundColor="BurlyWood" IsVisible="False">
+            <Border HorizontalOptions="Center" VerticalOptions="Center">
+                <VerticalStackLayout>
+                    <Image Source="feedpip.png" HeightRequest="400"/>
+                    <Label Text="Pip is happy" TextColor="#000000" HorizontalOptions="Center"/>
+                    <Button Text="OK" Clicked="Close_Feed"/>
+                </VerticalStackLayout>
+            </Border>
+        </Grid>
+        <Grid x:Name="PopUpLayer2"  BackgroundColor="BurlyWood" IsVisible="False">
+            <Border HorizontalOptions="Center" VerticalOptions="Center">
+                <VerticalStackLayout>
+                    <Image Source="washpip.png" HeightRequest="400"/>
+                    <Label Text="Pip is clean" TextColor="#000000" HorizontalOptions="Center"/>
+                    <Button Text="OK" Clicked="Button_Wash_End"/>
+                </VerticalStackLayout>
+            </Border>
+        </Grid>
+        <Grid x:Name="PopUpLayer3"  BackgroundColor="BurlyWood" IsVisible="False">
+            <Border HorizontalOptions="Center" VerticalOptions="Center">
+                <VerticalStackLayout>
+                    <Image Source="poorpip.png" HeightRequest="400"/>
+                    <Label Text="sad Pip" TextColor="#000000" HorizontalOptions="Center"/>
+                    <Button Text="OK" Clicked="Button_Close_Beat"/>
+                </VerticalStackLayout>
+            </Border>
+        </Grid>
+
+    </Grid>
+</ContentPage>

@@ -1,0 +1,18 @@
+﻿using Microsoft.Maui.Controls;
+
+namespace PeakMind
+{
+    public partial class Login : ContentPage
+    {
+        public Login()
+        {
+            InitializeComponent();
+        }
+
+        private async void LoginButton_Clicked(object sender, System.EventArgs e)
+        {
+            var name = NameEntry?.Text ?? string.Empty;
+            await DisplayAlert("Login", $"Welcome, {name}", "OK");
+        }
+    }
+}

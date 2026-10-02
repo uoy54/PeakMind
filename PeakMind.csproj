@@ -1,0 +1,3 @@
+<ItemGroup>
+<MauiIcon Include="Resources\AppIcon\file.svg" />
+</ItemGroup>

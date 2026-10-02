@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PeakMind\\PeakMind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\pages\\journalpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\pages\\journalpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\pages\\journalpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\pages\\journalpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\pages\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\pages\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\pages\\burdonstest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\pages\\burdonstest.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\pages\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\pages\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\pages\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\pages\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\services\\aiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\services\\aiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\pages\\burdonstest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\pages\\burdonstest.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\booltocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\booltocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\askar\\.nuget\\packages\\microsoft.maui.resizetizer\\10.0.20\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\pages\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\pages\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\pages\\burdonstest.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\pages\\burdonstest.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\pages\\register.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\pages\\register.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|c:\\peakmind\\peakmind\\peakmind\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E5EBD0D-D6FF-4767-8416-6A2AC5E361E7}|PeakMind\\PeakMind.csproj|solutionrelative:peakmind\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JournalPage.xaml",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\JournalPage.xaml",
+              "RelativeDocumentMoniker": "PeakMind\\Pages\\JournalPage.xaml",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\JournalPage.xaml",
+              "RelativeToolTip": "PeakMind\\Pages\\JournalPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-24T14:26:48.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PeakMind\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "PeakMind\\Pages\\MainPage.xaml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-18T18:51:49.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Aiservices.cs",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\Services\\Aiservices.cs",
+              "RelativeDocumentMoniker": "PeakMind\\Services\\Aiservices.cs",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\Services\\Aiservices.cs",
+              "RelativeToolTip": "PeakMind\\Services\\Aiservices.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:53:36.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.xaml",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\Register.xaml",
+              "RelativeDocumentMoniker": "PeakMind\\Pages\\Register.xaml",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\Register.xaml",
+              "RelativeToolTip": "PeakMind\\Pages\\Register.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-18T22:54:55.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JournalPage.xaml.cs",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\JournalPage.xaml.cs",
+              "RelativeDocumentMoniker": "PeakMind\\Pages\\JournalPage.xaml.cs",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\JournalPage.xaml.cs",
+              "RelativeToolTip": "PeakMind\\Pages\\JournalPage.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T13:52:34.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "PeakMind\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "PeakMind\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwEkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:29:16.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "PeakMind\\MauiProgram.cs",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\MauiProgram.cs",
+              "RelativeToolTip": "PeakMind\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T22:26:26.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewPage1.xaml.cs",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\NewPage1.xaml.cs",
+              "RelativeDocumentMoniker": "PeakMind\\Pages\\NewPage1.xaml.cs",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\NewPage1.xaml.cs",
+              "RelativeToolTip": "PeakMind\\Pages\\NewPage1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:49:42.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "PeakMind\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "PeakMind\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:53:29.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BurdonsTest.xaml.cs",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\BurdonsTest.xaml.cs",
+              "RelativeDocumentMoniker": "PeakMind\\Pages\\BurdonsTest.xaml.cs",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\BurdonsTest.xaml.cs",
+              "RelativeToolTip": "PeakMind\\Pages\\BurdonsTest.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T15:12:03.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.xaml.cs",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\Register.xaml.cs",
+              "RelativeDocumentMoniker": "PeakMind\\Pages\\Register.xaml.cs",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\Register.xaml.cs",
+              "RelativeToolTip": "PeakMind\\Pages\\Register.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T22:29:21.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\Models.cs",
+              "RelativeDocumentMoniker": "PeakMind\\Models.cs",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\Models.cs",
+              "RelativeToolTip": "PeakMind\\Models.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T22:25:58.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\Login.xaml",
+              "RelativeDocumentMoniker": "PeakMind\\Pages\\Login.xaml",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\Login.xaml",
+              "RelativeToolTip": "PeakMind\\Pages\\Login.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-18T23:07:59.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "PeakMind\\Pages\\Login.xaml.cs",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\Login.xaml.cs",
+              "RelativeToolTip": "PeakMind\\Pages\\Login.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwDIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:08:21.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BoolToColorConverter.cs",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\BoolToColorConverter.cs",
+              "RelativeDocumentMoniker": "PeakMind\\BoolToColorConverter.cs",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\BoolToColorConverter.cs",
+              "RelativeToolTip": "PeakMind\\BoolToColorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T17:36:05.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PeakMind\\App.xaml.cs",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\App.xaml.cs",
+              "RelativeToolTip": "PeakMind\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:57:37.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\AppShell.xaml",
+              "RelativeDocumentMoniker": "PeakMind\\AppShell.xaml",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\AppShell.xaml",
+              "RelativeToolTip": "PeakMind\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-18T19:09:55.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BurdonsTest.xaml",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\BurdonsTest.xaml",
+              "RelativeDocumentMoniker": "PeakMind\\Pages\\BurdonsTest.xaml",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\BurdonsTest.xaml",
+              "RelativeToolTip": "PeakMind\\Pages\\BurdonsTest.xaml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwEAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-23T15:14:41.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\App.xaml",
+              "RelativeDocumentMoniker": "PeakMind\\App.xaml",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\App.xaml",
+              "RelativeToolTip": "PeakMind\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-18T19:57:22.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "PeakMind\\AppShell.xaml.cs",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\AppShell.xaml.cs",
+              "RelativeToolTip": "PeakMind\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:57:30.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\askar\\.nuget\\packages\\microsoft.maui.resizetizer\\10.0.20\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\Users\\askar\\.nuget\\packages\\microsoft.maui.resizetizer\\10.0.20\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\askar\\.nuget\\packages\\microsoft.maui.resizetizer\\10.0.20\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeToolTip": "..\\..\\Users\\askar\\.nuget\\packages\\microsoft.maui.resizetizer\\10.0.20\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AgIAAGsDAAAAAAAAAAAEwIQDAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-23T15:30:41.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BurdonsTest.xaml",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\BurdonsTest.xaml",
+              "RelativeDocumentMoniker": "PeakMind\\Pages\\BurdonsTest.xaml",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\BurdonsTest.xaml",
+              "RelativeToolTip": "PeakMind\\Pages\\BurdonsTest.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-23T14:46:12.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NewPage1.xaml",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\NewPage1.xaml",
+              "RelativeDocumentMoniker": "PeakMind\\Pages\\NewPage1.xaml",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\NewPage1.xaml",
+              "RelativeToolTip": "PeakMind\\Pages\\NewPage1.xaml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwDAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-18T19:26:16.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PeakMind\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PeakMind\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-18T22:50:21.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Register.xaml",
+              "DocumentMoniker": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\Register.xaml",
+              "RelativeDocumentMoniker": "PeakMind\\Pages\\Register.xaml",
+              "ToolTip": "C:\\PeakMind\\PeakMind\\PeakMind\\Pages\\Register.xaml",
+              "RelativeToolTip": "PeakMind\\Pages\\Register.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-18T22:52:05.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

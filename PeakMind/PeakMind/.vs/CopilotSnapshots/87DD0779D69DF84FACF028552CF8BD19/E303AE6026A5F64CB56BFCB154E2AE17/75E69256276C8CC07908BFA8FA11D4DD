@@ -1,0 +1,12 @@
+﻿using Microsoft.Maui.Controls;
+
+namespace PeakMind
+{
+    public partial class Login : ContentPage
+    {
+        public Login()
+        {
+            InitializeComponent();
+        }
+    }
+}

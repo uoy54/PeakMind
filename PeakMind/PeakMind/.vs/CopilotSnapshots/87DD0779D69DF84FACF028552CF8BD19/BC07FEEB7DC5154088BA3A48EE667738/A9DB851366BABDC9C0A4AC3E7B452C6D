@@ -1,0 +1,22 @@
+﻿using Microsoft.Maui;
+using Microsoft.Maui.Hosting;
+
+namespace PeakMind.WinUI;
+
+public partial class App : MauiWinUIApplication
+{
+    public App()
+    {
+        InitializeComponent();
+    }
+
+    // Fallback InitializeComponent so the project builds when the XAML-generated
+    // InitializeComponent is not available (avoids CS0103).
+    [System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]
+    private void InitializeComponent() { }
+
+    protected override MauiApp CreateMauiApp()
+    {
+        return MauiProgram.CreateMauiApp();
+    }
+}

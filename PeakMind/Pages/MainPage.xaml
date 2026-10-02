@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PeakMind.Pages.MainPage" BackgroundColor="BurlyWood">
+    
+    <VerticalStackLayout Padding="20" HorizontalOptions="Center">
+        <Label Text="Welcome, Sanzhar!" TextColor="MidnightBlue" FontSize="Header"/>
+        <Label Text="This is your daily check-in. How are you feeling?" TextColor="MidnightBlue" FontSize="Default"/>
+        <VerticalStackLayout Padding="0" HorizontalOptions="Center">
+            <Label Text="How was your day?" TextColor="MidnightBlue"  FontSize="Header"/>
+        <Editor Placeholder="Write here" x:Name="PlaceHolderChange" TextChanged="PlaceHolderChange_TextChanged" TextColor="MidnightBlue"/>
+        <Button Text="Give Answer" Clicked="GenerateAnswer" BackgroundColor="SlateBlue" TextColor="MidnightBlue"/>
+            <Button Text="GoToPiP" Clicked="GoToCatClicked" BackgroundColor="SlateBlue" TextColor="MidnightBlue"/>
+        <Label Text="--Your Previous Check-in's there " TextColor="MidnightBlue" HorizontalOptions="Center" FontSize="Medium"/>
+        </VerticalStackLayout>
+
+    </VerticalStackLayout>
+    
+</ContentPage>

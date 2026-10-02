@@ -1,0 +1,46 @@
+﻿namespace PeakMind;
+
+public partial class NewPage1 : ContentPage
+{
+	public NewPage1()
+	{
+		InitializeComponent();
+	}
+
+   
+
+    private async void Button_Feed(object sender, EventArgs e)
+    {
+        PopUpLayer1.IsVisible = true;
+        PopUpLayer1.Opacity = 0;
+        await PopUpLayer1.FadeToAsync(1,200);
+    }
+
+    private async void Button_Shower(object sender, EventArgs e)
+    {
+        PopUpLayer2.IsVisible = true;
+        PopUpLayer2.Opacity = 0;
+        await PopUpLayer2.FadeToAsync(1, 200);
+
+    }
+
+    private void Button_Close_Beat(object sender, EventArgs e)
+    {
+        PopUpLayer3.IsVisible = false;
+    }
+    private void Close_Feed(object sender, EventArgs e)
+    {
+        PopUpLayer1.IsVisible = false ;
+    }
+    private async void Button_Beat(object sender, EventArgs e)
+    {
+        PopUpLayer3.IsVisible = true;
+        PopUpLayer3.Opacity = 0;
+        await PopUpLayer3.FadeToAsync(1, 200);
+    }
+
+    private void Button_Wash_End(object sender, EventArgs e)
+    {
+        PopUpLayer2.IsVisible = false;
+    }
+}

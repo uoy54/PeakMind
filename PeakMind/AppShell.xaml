@@ -1,0 +1,26 @@
+<Shell
+    x:Class="PeakMind.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:pages="clr-namespace:PeakMind.Pages"
+    Title="PeakMind">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate pages:MainPage}"
+        Route="MainPage" />
+
+    <ShellContent
+        Title="Test"
+        ContentTemplate="{DataTemplate pages:BurdonsTest}"
+        Route="BurdonsTest" />
+
+    <ShellContent
+        Title="Second"
+        ContentTemplate="{DataTemplate pages:NewPage1}"
+        Route="NewPage1" />
+    <ShellContent
+    Title="Archive"
+    ContentTemplate="{DataTemplate pages:JournalPage}"
+    Route="JournalPage" />
+</Shell>

@@ -1,0 +1,22 @@
+﻿using Microsoft.UI.Xaml;
+using Microsoft.Maui;
+using Microsoft.Maui.Hosting;
+
+namespace PeakMind.WinUI
+{
+    /// <summary>
+    /// Provides application-specific behavior to supplement the default Application class.
+    /// </summary>
+    public partial class App
+    {
+        public App()
+        {
+            this.InitializeComponent();
+        }
+
+        protected MauiApp CreateMauiApp()
+        {
+            return MauiProgram.CreateMauiApp();
+        }
+    }
+}

@@ -1,0 +1,10 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PeakMind.Pages.Register" BackgroundColor="BurlyWood">
+    <StackLayout Padding="20" Spacing="10">
+        <Entry x:Name="UsernameEntry" Placeholder="Username" TextColor="MidnightBlue" PlaceholderColor="MidnightBlue"/>
+        <Entry x:Name="PasswordEntry" Placeholder="Password" IsPassword="True" TextColor="MidnightBlue" PlaceholderColor="MidnightBlue"/>
+        <Entry x:Name="ConfirmPasswordEntry" Placeholder="Confirm Password" IsPassword="True" TextColor="MidnightBlue" PlaceholderColor="MidnightBlue"/>
+        <Button Text="Register" Clicked="RegisterButton_Clicked" BackgroundColor="MidnightBlue"/>
+    </StackLayout>
+</ContentPage>

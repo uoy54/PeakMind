@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+</maui:MauiWinUIApplication
+    x:Class="PeakMind.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:local="using:PeakMind.WinUI">
+    <maui:MauiWinUIApplication.Resources />
+</maui:MauiWinUIApplication>
+</Application>

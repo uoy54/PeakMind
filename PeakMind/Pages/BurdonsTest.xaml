@@ -1,0 +1,70 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PeakMind.Pages.BurdonsTest"
+             >
+    <Grid>
+        <Label Text="{Binding TimerText}"
+       FontSize="20"
+       HorizontalOptions="End"
+       TextColor="BurlyWood"/>
+        
+        <Label Text="Найдите все буквы: А"
+       FontSize="18"
+       TextColor="BurlyWood"
+       HorizontalOptions="Center"/>
+
+        <Label Text="{Binding TargetLetter}"
+		   FontSize="28"
+		   FontAttributes="Bold"
+		   TextColor="BurlyWood"
+		   HorizontalOptions="Center"/>
+        <Grid RowDefinitions="Auto,Auto,*,Auto">
+
+            <Label Grid.Row="0"
+			   Text="Найдите все буквы : A"
+			   FontSize="18"
+			   HorizontalOptions="Center"
+			   TextColor ="MidnightBlue"/>
+
+            <Label Grid.Row="1"
+			   Text="{Binding TargetLetter}"
+			   FontSize="28"
+			   FontAttributes="Bold"
+			   TextColor="Red"
+			   HorizontalOptions="Center"/>
+
+            <CollectionView Grid.Row="2"
+						ItemsSource="{Binding Cells}">
+                <CollectionView.ItemsLayout>
+                    <GridItemsLayout Orientation="Vertical"
+								 Span="10"/>
+                </CollectionView.ItemsLayout>
+
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Padding="5"
+						   Margin="2"
+						   BorderColor="Midnightblue"						   
+						   HasShadow="False">
+                            <Frame.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="CellTapped"/>
+                            </Frame.GestureRecognizers>
+
+                            <Label Text="{Binding Letter}"
+							   HorizontalOptions="Center"
+							   VerticalOptions="Center"
+							   TextColor="{Binding IsSelected, Converter={StaticResource BoolToColor}}"/>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <Button Grid.Row="3"
+				Text="Finish Test"
+				Clicked="FinishTest"
+				BackgroundColor="DarkSlateBlue"
+				TextColor="BurlyWood"/>
+        </Grid>
+    </Grid>
+
+</ContentPage>
